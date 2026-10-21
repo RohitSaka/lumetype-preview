@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Lumetype</title>
+  <!-- The small mark: the cross of light with bolder rays and a simpler reflection, for tabs and toolbars. -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b1342"/><stop offset=".74" stop-color="#3a2491"/><stop offset=".76" stop-color="#22175a"/><stop offset="1" stop-color="#120c2e"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="32" cy="23" r="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ddd6fe" stop-opacity=".95"/><stop offset=".35" stop-color="#a78bfa" stop-opacity=".5"/><stop offset="1" stop-color="#7c5cf0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#bg)"/>
+  <circle cx="32" cy="23" r="24" fill="url(#halo)"/>
+  <g fill="#fff">
+    <path d="M32 7 C33.6 15.5 34.6 19.5 36 23 C34.6 26.5 33.6 33 32 47 C30.4 33 29.4 26.5 28 23 C29.4 19.5 30.4 15.5 32 7Z"/>
+    <path d="M13 23 C22 21.8 27 21 32 19.4 C37 21 42 21.8 51 23 C42 24.2 37 25 32 26.6 C27 25 22 24.2 13 23Z"/>
+    <rect x="12" y="48.2" width="40" height="1.6" rx=".8" opacity=".55"/>
+    <rect x="27" y="52.6" width="10" height="2" rx="1" opacity=".7"/>
+    <rect x="29.2" y="57" width="5.6" height="1.8" rx=".9" opacity=".4"/>
+  </g>
+  <rect x=".5" y=".5" width="63" height="63" rx="14.5" fill="none" stroke="#c4b5fd" stroke-opacity=".3"/>
+</svg>
