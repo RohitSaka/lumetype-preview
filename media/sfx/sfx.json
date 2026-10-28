@@ -1,0 +1,51 @@
+[
+  {
+    "id": "dslr",
+    "label": "DSLR",
+    "file": "media/sfx/dslr.flac",
+    "duration": 0.2914,
+    "hit": 0.0065
+  },
+  {
+    "id": "film-slr",
+    "label": "Film SLR",
+    "file": "media/sfx/film-slr.flac",
+    "duration": 0.3094,
+    "hit": 0.0095
+  },
+  {
+    "id": "film-wind",
+    "label": "Film advance",
+    "file": "media/sfx/film-wind.flac",
+    "duration": 0.4246,
+    "hit": 0.001
+  },
+  {
+    "id": "mirrorless",
+    "label": "Mirrorless",
+    "file": "media/sfx/mirrorless.flac",
+    "duration": 0.1267,
+    "hit": 0.001
+  },
+  {
+    "id": "polaroid",
+    "label": "Instant camera",
+    "file": "media/sfx/polaroid.flac",
+    "duration": 1.0114,
+    "hit": 0.001
+  },
+  {
+    "id": "disposable",
+    "label": "Disposable",
+    "file": "media/sfx/disposable.flac",
+    "duration": 0.7816,
+    "hit": 0.001
+  },
+  {
+    "id": "leaf",
+    "label": "Leaf shutter",
+    "file": "media/sfx/leaf.flac",
+    "duration": 0.1474,
+    "hit": 0.001
+  }
+]
