@@ -1,0 +1,1 @@
+var e={"birds-of-paradise":{url:new URL(`BirdsOfParadise-PersonalUse-BK29pchM.ttf`,import.meta.url).href,unicodeRange:`U+0000-002F, U+003A-007B, U+007D-00A5, U+00A7-00B1, U+00B4-00B8, U+00BA-00BB, U+00BF-10FFFF`}};export{e as PREVIEW_FONT_FILES};
